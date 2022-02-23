@@ -32,7 +32,7 @@ Every wallet using a version below this one (v3.0.4) will automatically be disco
 
 
 # Checksums:
-Consider the following checksum to be sure of using the official wallets compiled by the Tiltcoin Team:
+Consider the following checksums to ensure of using the official wallets compiled by the Tiltcoin Team:
 
 -------
 
